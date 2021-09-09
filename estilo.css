@@ -1,0 +1,21 @@
+:root{
+    --green: #00FF00;
+    --red: #FF0000;
+    --blue: #0000FF;
+    --grey: #888888;
+    --azulMOR: #0059A9;
+    --brownish: #AAAA88;
+}
+
+header {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: var(--azulMOR);
+}
+.list {
+    list-style: armenian;
+}
+* {
+    background-color: #333333;
+    font-family: monospace;
+    color: #9D2122;
+}
